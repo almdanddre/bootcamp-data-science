@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/andre/Desktop/Bootcamp/aula-2/notebooks/mlruns/1/fc78c02d31764924bccf079fe7291c86/artifacts
+end_time: 1624029162165
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: fc78c02d31764924bccf079fe7291c86
+run_uuid: fc78c02d31764924bccf079fe7291c86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624029161804
+status: 3
+tags: []
+user_id: andre
